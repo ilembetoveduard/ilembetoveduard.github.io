@@ -1,0 +1,65 @@
+header{
+height:427px;
+background-image:url(img/0.jpg);	
+background-repeat:no-repeat;
+background-position:top right;
+background-color:black;
+margin-bottom:10px;
+}
+body{
+background-color:#6F8090;
+padding-bottom:10px;
+}
+.privet{
+padding-top:10px;
+color:blue;
+font-size:20px;
+float:right;
+width:40%;
+}
+.sidebar{
+font-size:16px;
+width:30%;
+float:left;
+background-color:white;	
+border:1px solid blue;
+margin-right:10px;
+padding:10px 0px;
+}	
+.content{
+font-size:14px;
+text-align:justify;
+padding:10px;
+}
+a{
+color:blue;	
+}
+.str{
+color:black;
+padding:10px;
+background-color:#6F8090;
+border:1px solid black;
+}
+.foto{
+margin:10px 0px;
+width:70%;
+border:1px solid black;
+}
+.ahref{
+padding:10px;
+border:1px solid white;
+}
+.ahref:hover{
+background-color:#6F8090;
+border:1px solid blue;
+}
+.content5{
+width:100%;
+font-size:14px;
+float:left;
+}
+.fotovir{
+margin:10px 0px;
+height:90%;
+border:1px solid black;
+}
